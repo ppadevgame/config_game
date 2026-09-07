@@ -1,206 +1,206 @@
 {
-    "Aviator1": {
-        "code": "Aviator1",
-        "name": "Aviator",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Aviator2": {
-        "code": "Aviator2",
-        "name": "Aviator2",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Baccarat1": {
-        "code": "Baccarat1",
-        "name": "Baccarat Cào",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "DragonTiger3": {
-        "code": "DragonTiger3",
-        "name": "Rồng hổ tứ linh",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "FanTan1": {
-        "code": "FanTan1",
-        "name": "Xóc đĩa",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Gold1": {
-        "code": "Gold1",
-        "name": "Gold1",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Lottery1": {
-        "code": "Lottery1",
-        "name": "Lottery1",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Plinko1": {
-        "code": "Plinko1",
-        "name": "Plinko1",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Sicbo1": {
-        "code": "Sicbo1",
-        "name": "Tài xỉu MD5 cân cửa",
-        "assetType": 0,
-        "gameType": 0,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Sicbo2": {
-        "code": "Sicbo2",
-        "name": "Sicbo2",
-        "assetType": 0,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Sicbo3": {
-        "code": "Sicbo3",
-        "name": "Sicbo3",
-        "assetType": 0,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Sicbo4": {
-        "code": "Sicbo4",
-        "name": "Chẵn lẻ siêu tốc",
-        "assetType": 0,
-        "gameType": 0,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Sicbo7": {
-        "code": "Sicbo7",
-        "name": "Tài xỉu thường không nổ hũ",
-        "assetType": 0,
-        "gameType": 0,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Slot1": {
-        "code": "Slot1",
-        "name": "Slot1",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "Slot10": {
-        "code": "Slot10",
-        "name": "Slot10",
-        "assetType": 1,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "UpDown1": {
-        "code": "UpDown1",
-        "name": "UpDown1",
-        "assetType": 0,
-        "gameType": 2,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
-    },
-    "WebView": {
-        "code": "WebView",
-        "name": "WebView",
-        "assetType": 1,
-        "gameType": 1,
-        "info": {
-            "md5": "",
-            "version": "",
-            "versionNumber": "1.0.0",
-            "deps": []
-        }
+  "Aviator1": {
+    "code": "Aviator1",
+    "name": "Aviator",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
     }
+  },
+  "Aviator2": {
+    "code": "Aviator2",
+    "name": "Avia Master",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Baccarat1": {
+    "code": "Baccarat1",
+    "name": "Baccarat Cào",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "DragonTiger3": {
+    "code": "DragonTiger3",
+    "name": "Rồng hổ tứ linh",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "FanTan1": {
+    "code": "FanTan1",
+    "name": "Xóc đĩa",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Gold1": {
+    "code": "Gold1",
+    "name": "Đào vàng",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Lottery1": {
+    "code": "Lottery1",
+    "name": "Lô đề ba miền",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Plinko1": {
+    "code": "Plinko1",
+    "name": "Plinko",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Sicbo1": {
+    "code": "Sicbo1",
+    "name": "Tài xỉu MD5 cân cửa",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Sicbo2": {
+    "code": "Sicbo2",
+    "name": "Tài xỉu MD5",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Sicbo3": {
+    "code": "Sicbo3",
+    "name": "Tài xỉu thường nổ hũ",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Sicbo4": {
+    "code": "Sicbo4",
+    "name": "Chẵn lẻ siêu tốc",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Sicbo7": {
+    "code": "Sicbo7",
+    "name": "Tài xỉu thường không nổ hũ",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Slot1": {
+    "code": "Slot1",
+    "name": "Brazil bomba",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "Slot10": {
+    "code": "Slot10",
+    "name": "Aldo’s Journey",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "UpDown1": {
+    "code": "UpDown1",
+    "name": "Cao thấp mini",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "WebView": {
+    "code": "WebView",
+    "name": "WebView",
+    "assetType": 1,
+    "gameType": 1,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  }
 }
