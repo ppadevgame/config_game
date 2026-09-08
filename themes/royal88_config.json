@@ -1,6 +1,6 @@
 {
   "configVersion": "2.0.0",
-  "updatedAt": "2026-09-08T11:34:00.438Z",
+  "updatedAt": "2026-09-08T11:39:35.917Z",
   "lobby": {
     "name": "Royal88",
     "code": "Lobby2",
@@ -208,7 +208,7 @@
         "type": "full",
         "assetType": "spine",
         "bundleName": "Lobby2",
-        "path": "Royal88/Animation/Card/Full/PrawnCrab1/baucua",
+        "path": "Royal88/Animation/Card/Full/PrawnCrab1/ic_baucua",
         "scale": 1.37,
         "position": {
           "x": 0,
