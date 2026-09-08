@@ -1,6 +1,6 @@
 {
   "configVersion": "2.0.0",
-  "updatedAt": "2026-09-08T11:16:30.014Z",
+  "updatedAt": "2026-09-08T11:22:26.814Z",
   "lobby": {
     "name": "Royal88",
     "code": "Lobby2",
@@ -155,7 +155,7 @@
         "scale": 1.07,
         "position": {
           "x": 0,
-          "y": 0,
+          "y": -5,
           "z": 0
         }
       },
