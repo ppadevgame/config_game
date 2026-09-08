@@ -35,6 +35,18 @@
       "deps": []
     }
   },
+  "Card1": {
+    "code": "Card1",
+    "name": "Đỏ đen 3 lá",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
   "DragonTiger3": {
     "code": "DragonTiger3",
     "name": "Rồng hổ tứ linh",
@@ -50,6 +62,42 @@
   "FanTan1": {
     "code": "FanTan1",
     "name": "Xóc đĩa",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "FanTan2": {
+    "code": "FanTan2",
+    "name": "Xóc đĩa Vip",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "FanTan4": {
+    "code": "FanTan4",
+    "name": "Xóc đĩa 3 xu",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "FanTan5": {
+    "code": "FanTan5",
+    "name": "Xóc đĩa tứ linh",
     "assetType": 1,
     "gameType": 2,
     "info": {
@@ -86,6 +134,18 @@
   "Plinko1": {
     "code": "Plinko1",
     "name": "Plinko",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "",
+      "version": "",
+      "versionNumber": "1.0.0",
+      "deps": []
+    }
+  },
+  "PrawnCrab1": {
+    "code": "PrawnCrab1",
+    "name": "Bầu cua Vip",
     "assetType": 1,
     "gameType": 2,
     "info": {

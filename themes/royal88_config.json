@@ -1,6 +1,6 @@
 {
   "configVersion": "2.0.0",
-  "updatedAt": "2026-09-07T02:32:53.624Z",
+  "updatedAt": "2026-09-08T11:16:30.014Z",
   "lobby": {
     "name": "Royal88",
     "code": "Lobby2",
@@ -127,18 +127,37 @@
     {
       "code": "FanTan5",
       "name": "Xóc đĩa tứ linh",
-      "bundleName": "",
+      "bundleName": "FanTan5",
       "card": {
         "type": "full",
         "assetType": "spine",
         "bundleName": "Lobby2",
+        "path": "Royal88/Animation/Card/Full/FanTan5/XocDiaTuLinh",
         "scale": 1,
         "position": {
           "x": -5,
           "y": -240,
           "z": 0
-        },
-        "path": "Royal88/Animation/Card/Full/FanTan5/XocDiaTuLinh"
+        }
+      },
+      "category": 0,
+      "isShow": true
+    },
+    {
+      "code": "FanTan2",
+      "name": "Xóc đĩa VIP",
+      "bundleName": "FanTan2",
+      "card": {
+        "type": "full",
+        "assetType": "image",
+        "bundleName": "Lobby2",
+        "path": "Royal88/CardSprite/Full/FanTan2",
+        "scale": 1.07,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
       },
       "category": 0,
       "isShow": true
@@ -179,6 +198,25 @@
         "path": "Royal88/Animation/Card/Full/WebView7/SBO"
       },
       "category": 1,
+      "isShow": true
+    },
+    {
+      "code": "PrawnCrab1",
+      "name": "Bầu Cua Vip",
+      "bundleName": "PrawnCrab1",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "path": "Royal88/Lobby2/Royal88/Animation/Card/Full/PrawnCrab1/ic_baucua",
+        "scale": 1.37,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "category": 0,
       "isShow": true
     },
     {
@@ -241,18 +279,18 @@
     {
       "code": "FanTan4",
       "name": "Xóc đĩa 3 xu",
-      "bundleName": "WebView",
+      "bundleName": "FanTan4",
       "card": {
         "type": "mini",
         "assetType": "spine",
         "bundleName": "Lobby2",
+        "path": "Royal88/Animation/Card/Mini/FanTan4/XocDia3Xu",
         "scale": 0.94,
         "position": {
           "x": 0,
           "y": -115,
           "z": 0
-        },
-        "path": "Royal88/Animation/Card/Mini/FanTan4/XocDia3Xu"
+        }
       },
       "category": 0,
       "isShow": true
@@ -336,18 +374,18 @@
     {
       "code": "Card1",
       "name": "Đỏ đen 3 lá",
-      "bundleName": "WebView",
+      "bundleName": "Card1",
       "card": {
         "type": "mini",
         "assetType": "spine",
         "bundleName": "Lobby2",
+        "path": "Royal88/Animation/Card/Mini/Card1/3LaDoDen",
         "scale": 0.94,
         "position": {
           "x": 0,
           "y": -115,
           "z": 0
-        },
-        "path": "Royal88/Animation/Card/Mini/Card1/3LaDoDen"
+        }
       },
       "category": 0,
       "isShow": true
