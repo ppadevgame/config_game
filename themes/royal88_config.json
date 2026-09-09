@@ -14,7 +14,8 @@
     }
   },
   "domain": {
-    "bundles": ""
+    "bundles": "",
+    "bundleMode": "folder"
   },
   "subIcons": {
     "live": {
