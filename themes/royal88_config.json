@@ -1,1 +1,682 @@
-{"configVersion":"2.0.0","updatedAt":"2026-09-09T10:16:39.658Z","lobby":{"name":"Royal88","code":"Lobby2","network":{"server":{"ja":"roy88jp.com","ko":"roy88kr.com","dev":"dev.com"},"apiPrefix":"v1"}},"domain":{"bundles":"","bundleMode":"zip"},"subIcons":{"live":{"assetType":"spine","bundleName":"Lobby2","path":"Resources/Animation/Spine/LiveIcon/LiveIcon","scale":1.1,"position":{"x":-250,"y":950}}},"cards":[{"code":"Sicbo7","name":"Tài xỉu thường không nổ hũ","bundleName":"Sicbo7","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/Sicbo7/TaiXiu2"},"category":0,"isShow":true},{"code":"Sicbo1","name":"Tài xỉu MD5 cân cửa","bundleName":"Sicbo1","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/Sicbo1/TaiXiuMD5"},"category":0,"isShow":true},{"code":"DragonTiger3","name":"Rồng hổ tứ linh","bundleName":"DragonTiger3","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1.37,"position":{"x":0,"y":0,"z":0},"path":"Royal88/Animation/Card/Full/DragonTiger3/rongho_gem"},"category":0,"isShow":true},{"code":"Baccarat1","name":"Baccarat Cào","bundleName":"Baccarat1","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/Baccarat1/BaccaratBig"},"category":0,"isShow":true},{"code":"WebView3","name":"Evolution Gaming","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView3/Evolution"},"category":2,"isShow":true},{"code":"FanTan5","name":"Xóc đĩa tứ linh","bundleName":"FanTan5","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","path":"Royal88/Animation/Card/Full/FanTan5/XocDiaTuLinh","scale":1,"position":{"x":-5,"y":-240,"z":0}},"category":0,"isShow":true},{"code":"FanTan2","name":"Xóc đĩa VIP","bundleName":"FanTan2","card":{"type":"full","assetType":"image","bundleName":"Lobby2","path":"Royal88/CardSprite/Full/FanTan2","scale":1.07,"position":{"x":0,"y":-5,"z":0}},"category":0,"isShow":true},{"code":"WebView6","name":"Saba Sports","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView6/SabaSport"},"category":1,"isShow":true},{"code":"WebView7","name":"SBO Bet","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView7/SBO"},"category":1,"isShow":true},{"code":"PrawnCrab1","name":"Bầu Cua Vip","bundleName":"PrawnCrab1","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","path":"Royal88/Animation/Card/Full/PrawnCrab1/ic_baucua","scale":1.37,"position":{"x":0,"y":0,"z":0}},"category":0,"isShow":true},{"code":"PrawnCrab3","name":"Bầu Cua","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/PrawnCrab3/BauCua"},"category":0,"isShow":true},{"code":"PrawnCrab4","name":"Bầu Cua Lộc Thú","bundleName":"","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/PrawnCrab4/BauCuaLocThu"},"category":0,"isShow":true},{"code":"FanTan1","name":"Xóc đĩa","bundleName":"FanTan1","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/FanTan1/XocDia"},"category":0,"isShow":true},{"code":"FanTan4","name":"Xóc đĩa 3 xu","bundleName":"FanTan4","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","path":"Royal88/Animation/Card/Mini/FanTan4/XocDia3Xu","scale":0.94,"position":{"x":0,"y":-115,"z":0}},"category":0,"isShow":true},{"code":"Sicbo5","name":"Trên 7 dưới 7","bundleName":"WebView","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/Sicbo5/Tren7Duoi7"},"category":0,"isShow":true},{"code":"Sicbo4","name":"Chẵn lẻ siêu tốc","bundleName":"Sicbo4","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/Sicbo4/ChanLeSieuToc"},"category":0,"isShow":true},{"code":"Baccarat2","name":"Baccarat","bundleName":"WebView","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/Baccarat2/Baccarat"},"category":0,"isShow":true},{"code":"Card2","name":"Black Jack","bundleName":"","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/Card2/BlackJack"},"category":0,"isShow":true},{"code":"Card1","name":"Đỏ đen 3 lá","bundleName":"Card1","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","path":"Royal88/Animation/Card/Mini/Card1/3LaDoDen","scale":0.94,"position":{"x":0,"y":-115,"z":0}},"category":0,"isShow":true},{"code":"UpDown1","name":"Cao thấp","bundleName":"WebView","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/UpDown1/CaoThap"},"category":0,"isShow":true},{"code":"Fish1","name":"Bắn cá","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/Fish1/BanCa"},"category":0,"isShow":true},{"code":"Aviator1","name":"Aviator","bundleName":"Aviator1","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/Aviator1/Aviator"},"category":0,"isShow":true},{"code":"Poker2","name":"Poker 2","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/Poker2/Poker2"},"category":0,"isShow":true},{"code":"WebView5","name":"Đá Gà","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView5/DaGa"},"category":2,"isShow":true},{"code":"WebView1","name":"AE Sexy","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView1/AESexy"},"category":2,"isShow":true},{"code":"WebView16","name":"CQ9","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView16/CQ9"},"category":2,"isShow":true},{"code":"WebView2","name":"Dream Gaming","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView2/DreamGaming"},"category":2,"isShow":true},{"code":"WebView4","name":"Pragmatic Casino","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView4/Pragmatic Play"},"category":2,"isShow":true},{"code":"WebView23","name":"Jili","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1,"position":{"x":-5,"y":-240,"z":0},"path":"Royal88/Animation/Card/Full/WebView23/Jili"},"category":2,"isShow":true},{"code":"WebView20","name":"Micro Gaming","bundleName":"WebView","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/WebView20/MicroGamming"},"category":2,"isShow":true},{"code":"WebView22","name":"PlayTech","bundleName":"WebView","card":{"type":"mini","assetType":"spine","bundleName":"Lobby2","scale":0.94,"position":{"x":0,"y":-115,"z":0},"path":"Royal88/Animation/Card/Mini/WebView22/Playtech"},"category":2,"isShow":true},{"code":"Lottery1","name":"Lô đề 3 miền","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1.37,"position":{"x":0,"y":0,"z":0},"path":"Royal88/Animation/Card/Full/Lottery1/LD"},"category":3,"isShow":true},{"code":"Lottery2","name":"Lô đề Siêu tốc","bundleName":"WebView","card":{"type":"full","assetType":"spine","bundleName":"Lobby2","scale":1.37,"position":{"x":0,"y":0,"z":0},"path":"Royal88/Animation/Card/Full/Lottery2/LoDeNhanh_G"},"category":3,"isShow":true}]}
+{
+  "configVersion": "2.0.0",
+  "updatedAt": "2026-09-09T10:16:39.658Z",
+  "lobby": {
+    "name": "Royal88",
+    "code": "Lobby2",
+    "network": {
+      "server": {
+        "ja": "roy88jp.com",
+        "ko": "roy88kr.com",
+        "dev": "dev.com"
+      },
+      "apiPrefix": "v1"
+    }
+  },
+  "domain": {
+    "bundles": "",
+    "bundleMode": "zip"
+  },
+  "cards": [
+    {
+      "code": "Sicbo7",
+      "name": "Tài xỉu thường không nổ hũ",
+      "bundleName": "Sicbo7",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Sicbo7/TaiXiu2"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Sicbo1",
+      "name": "Tài xỉu MD5 cân cửa",
+      "bundleName": "Sicbo1",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Sicbo1/TaiXiuMD5"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "DragonTiger3",
+      "name": "Rồng hổ tứ linh",
+      "bundleName": "DragonTiger3",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1.37,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/DragonTiger3/rongho_gem"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Baccarat1",
+      "name": "Baccarat Cào",
+      "bundleName": "Baccarat1",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Baccarat1/BaccaratBig"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView3",
+      "name": "Evolution Gaming",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView3/Evolution"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "FanTan5",
+      "name": "Xóc đĩa tứ linh",
+      "bundleName": "FanTan5",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "path": "Resources/LobbyCard/Full/FanTan5/XocDiaTuLinh",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        }
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "FanTan2",
+      "name": "Xóc đĩa VIP",
+      "bundleName": "FanTan2",
+      "card": {
+        "type": "full",
+        "assetType": "image",
+        "bundleName": "Lobby2",
+        "path": "Resources/LobbyCard/Full/FanTan2",
+        "scale": 1.07,
+        "position": {
+          "x": 0,
+          "y": -5,
+          "z": 0
+        }
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView6",
+      "name": "Saba Sports",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView6/SabaSport"
+      },
+      "category": 1,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView7",
+      "name": "SBO Bet",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView7/SBO"
+      },
+      "category": 1,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "PrawnCrab1",
+      "name": "Bầu Cua Vip",
+      "bundleName": "PrawnCrab1",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "path": "Resources/LobbyCard/Full/PrawnCrab1/ic_baucua",
+        "scale": 1.37,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "PrawnCrab3",
+      "name": "Bầu Cua",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/PrawnCrab3/BauCua"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "PrawnCrab4",
+      "name": "Bầu Cua Lộc Thú",
+      "bundleName": "",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/PrawnCrab4/BauCuaLocThu"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "FanTan1",
+      "name": "Xóc đĩa",
+      "bundleName": "FanTan1",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/FanTan1/XocDia"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "FanTan4",
+      "name": "Xóc đĩa 3 xu",
+      "bundleName": "FanTan4",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "path": "Resources/LobbyCard/Mini/FanTan4/XocDia3Xu",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        }
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Sicbo5",
+      "name": "Trên 7 dưới 7",
+      "bundleName": "WebView",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/Sicbo5/Tren7Duoi7"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Sicbo4",
+      "name": "Chẵn lẻ siêu tốc",
+      "bundleName": "Sicbo4",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/Sicbo4/ChanLeSieuToc"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Baccarat2",
+      "name": "Baccarat",
+      "bundleName": "WebView",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/Baccarat2/Baccarat"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Card2",
+      "name": "Black Jack",
+      "bundleName": "",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/Card2/BlackJack"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Card1",
+      "name": "Đỏ đen 3 lá",
+      "bundleName": "Card1",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "path": "Resources/LobbyCard/Mini/Card1/3LaDoDen",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        }
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "UpDown1",
+      "name": "Cao thấp",
+      "bundleName": "WebView",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/UpDown1/CaoThap"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Fish1",
+      "name": "Bắn cá",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Fish1/BanCa"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Aviator1",
+      "name": "Aviator",
+      "bundleName": "Aviator1",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Aviator1/Aviator"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Poker2",
+      "name": "Poker 2",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Poker2/Poker2"
+      },
+      "category": 0,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView5",
+      "name": "Đá Gà",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView5/DaGa"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView1",
+      "name": "AE Sexy",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView1/AESexy"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView16",
+      "name": "CQ9",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView16/CQ9"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView2",
+      "name": "Dream Gaming",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView2/DreamGaming"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView4",
+      "name": "Pragmatic Casino",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView4/Pragmatic Play"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView23",
+      "name": "Jili",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1,
+        "position": {
+          "x": -5,
+          "y": -240,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/WebView23/Jili"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView20",
+      "name": "Micro Gaming",
+      "bundleName": "WebView",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/WebView20/MicroGamming"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "WebView22",
+      "name": "PlayTech",
+      "bundleName": "WebView",
+      "card": {
+        "type": "mini",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 0.94,
+        "position": {
+          "x": 0,
+          "y": -115,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Mini/WebView22/Playtech"
+      },
+      "category": 2,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Lottery1",
+      "name": "Lô đề 3 miền",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1.37,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Lottery1/LD"
+      },
+      "category": 3,
+      "isShow": true,
+      "isPortrait": false
+    },
+    {
+      "code": "Lottery2",
+      "name": "Lô đề Siêu tốc",
+      "bundleName": "WebView",
+      "card": {
+        "type": "full",
+        "assetType": "spine",
+        "bundleName": "Lobby2",
+        "scale": 1.37,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        },
+        "path": "Resources/LobbyCard/Full/Lottery2/LoDeNhanh_G"
+      },
+      "category": 3,
+      "isShow": true,
+      "isPortrait": false
+    }
+  ]
+}

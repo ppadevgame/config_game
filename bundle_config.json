@@ -1,1 +1,320 @@
-{"Aviator1":{"code":"Aviator1","name":"Aviator","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Aviator2":{"code":"Aviator2","name":"Avia Master","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Baccarat1":{"code":"Baccarat1","name":"Baccarat Cào","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Card1":{"code":"Card1","name":"Đỏ đen 3 lá","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"DragonTiger3":{"code":"DragonTiger3","name":"Rồng hổ tứ linh","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"FanTan1":{"code":"FanTan1","name":"Xóc đĩa","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"FanTan2":{"code":"FanTan2","name":"Xóc đĩa Vip","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"FanTan4":{"code":"FanTan4","name":"Xóc đĩa 3 xu","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"FanTan5":{"code":"FanTan5","name":"Xóc đĩa tứ linh","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Gold1":{"code":"Gold1","name":"Đào vàng","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Lottery1":{"code":"Lottery1","name":"Lô đề ba miền","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Plinko1":{"code":"Plinko1","name":"Plinko","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"PrawnCrab1":{"code":"PrawnCrab1","name":"Bầu cua Vip","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Sicbo1":{"code":"Sicbo1","name":"Tài xỉu MD5 cân cửa","assetType":0,"gameType":0,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Sicbo2":{"code":"Sicbo2","name":"Tài xỉu MD5","assetType":0,"gameType":0,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Sicbo3":{"code":"Sicbo3","name":"Tài xỉu thường nổ hũ","assetType":0,"gameType":0,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Sicbo4":{"code":"Sicbo4","name":"Chẵn lẻ siêu tốc","assetType":0,"gameType":0,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Sicbo7":{"code":"Sicbo7","name":"Tài xỉu thường không nổ hũ","assetType":0,"gameType":0,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Slot1":{"code":"Slot1","name":"Brazil bomba","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"Slot10":{"code":"Slot10","name":"Aldo’s Journey","assetType":1,"gameType":2,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"UpDown1":{"code":"UpDown1","name":"Cao thấp mini","assetType":0,"gameType":0,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}},"WebView":{"code":"WebView","name":"WebView","assetType":1,"gameType":1,"info":{"md5":"","version":"","deps":[],"versionNumber":"1.0.0"}}}
+{
+  "Aviator1": {
+    "code": "Aviator1",
+    "name": "Aviator",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "45bcbec98141b9441d468402e369321a",
+      "version": "f6042",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Aviator2": {
+    "code": "Aviator2",
+    "name": "Avia Master",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "2541c2ff4bd2fbfc33011d651ac32bca",
+      "version": "601bb",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Baccarat1": {
+    "code": "Baccarat1",
+    "name": "Baccarat Cào",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "1498ab6d945320d5d66fbba5382a2456",
+      "version": "a1a19",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Card1": {
+    "code": "Card1",
+    "name": "Đỏ đen 3 lá",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "565bb44a41611fbb7d9f4a3e420c602d",
+      "version": "1a5b7",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "DragonTiger3": {
+    "code": "DragonTiger3",
+    "name": "Rồng hổ tứ linh",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "71b8be923009c27821c8a3646f0c3f36",
+      "version": "d51df",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "FanTan1": {
+    "code": "FanTan1",
+    "name": "Xóc đĩa",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "ba69116157a219785af1382bec12f60e",
+      "version": "ac8d7",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "FanTan2": {
+    "code": "FanTan2",
+    "name": "Xóc đĩa Vip",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "b4ba855765dc3964bacf2a51a075e5db",
+      "version": "5ee5a",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "FanTan4": {
+    "code": "FanTan4",
+    "name": "Xóc đĩa 3 xu",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "0df9bfa4d7c7a752288e72d99fb15966",
+      "version": "baf4b",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "FanTan5": {
+    "code": "FanTan5",
+    "name": "Xóc đĩa tứ linh",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "a85b3bc1b78e1221ad2e2020e7daac7d",
+      "version": "529c4",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Gold1": {
+    "code": "Gold1",
+    "name": "Đào vàng",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "39ebd16dc34ec53ed6cd3c9048140559",
+      "version": "d878e",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Lobby2": {
+    "code": "Lobby2",
+    "name": "Lobby2",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "f59f8cc61d0153913a48383231cbcf80",
+      "version": "db203",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Lottery1": {
+    "code": "Lottery1",
+    "name": "Lô đề ba miền",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "f82932e5b02df4c7b8b0d8dfb6e388d4",
+      "version": "1ccea",
+      "deps": [],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Plinko1": {
+    "code": "Plinko1",
+    "name": "Plinko",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "3c07634b8a7ce9a83bf021dc9725ba58",
+      "version": "58b64",
+      "deps": [
+        "Lobby2"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "PrawnCrab1": {
+    "code": "PrawnCrab1",
+    "name": "Bầu cua Vip",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "91a595a1afa34e4c5f1c9131ce455099",
+      "version": "f57f8",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Sicbo1": {
+    "code": "Sicbo1",
+    "name": "Tài xỉu MD5 cân cửa",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "864b3e6ccdeb0ed90e8f72a8d6deac57",
+      "version": "65745",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Sicbo2": {
+    "code": "Sicbo2",
+    "name": "Tài xỉu MD5",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "9f5d89954accf1b6ae86cc61e9e382b5",
+      "version": "a5a5f",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Sicbo3": {
+    "code": "Sicbo3",
+    "name": "Tài xỉu thường nổ hũ",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "754ea1cf26699eea12db8ebaa573ea98",
+      "version": "e06ad",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Sicbo4": {
+    "code": "Sicbo4",
+    "name": "Chẵn lẻ siêu tốc",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "c1f6c733caa54ad3eb74f923d240c849",
+      "version": "4ebbd",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Sicbo7": {
+    "code": "Sicbo7",
+    "name": "Tài xỉu thường không nổ hũ",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "d22ebb6655efacd9c6389d56ea8b11e7",
+      "version": "c2621",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Slot1": {
+    "code": "Slot1",
+    "name": "Brazil bomba",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "fac8091fc5331eaa194ac2285a00f477",
+      "version": "64a20",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "Slot10": {
+    "code": "Slot10",
+    "name": "Aldo’s Journey",
+    "assetType": 1,
+    "gameType": 2,
+    "info": {
+      "md5": "3f629a3777319606e4335b221be61877",
+      "version": "9f578",
+      "deps": [],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "UpDown1": {
+    "code": "UpDown1",
+    "name": "Cao thấp mini",
+    "assetType": 0,
+    "gameType": 0,
+    "info": {
+      "md5": "8a0b8f69dffda5006da9f3fa27d2c019",
+      "version": "989e8",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  },
+  "WebView": {
+    "code": "WebView",
+    "name": "WebView",
+    "assetType": 1,
+    "gameType": 1,
+    "info": {
+      "md5": "9537315b2ad875b3db23be99af04b2e4",
+      "version": "ceaf5",
+      "deps": [
+        "resources"
+      ],
+      "versionNumber": "1.0.0"
+    }
+  }
+}
