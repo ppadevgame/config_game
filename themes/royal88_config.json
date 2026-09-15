@@ -1,6 +1,6 @@
 {
   "configVersion": "2.0.0",
-  "updatedAt": "2026-09-09T10:16:39.658Z",
+  "updatedAt": "2026-09-15T13:26:39.617Z",
   "lobby": {
     "name": "Royal88",
     "code": "Lobby2",
@@ -26,13 +26,23 @@
         "type": "full",
         "assetType": "spine",
         "bundleName": "Lobby2",
+        "path": "Resources/LobbyCard/Full/Sicbo7/TaiXiu2",
         "scale": 1,
         "position": {
           "x": -5,
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Sicbo7/TaiXiu2"
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -52,7 +62,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Sicbo1/TaiXiuMD5"
+        "path": "Resources/LobbyCard/Full/Sicbo1/TaiXiuMD5",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -72,7 +92,17 @@
           "y": 0,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/DragonTiger3/rongho_gem"
+        "path": "Resources/LobbyCard/Full/DragonTiger3/rongho_gem",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -92,7 +122,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Baccarat1/BaccaratBig"
+        "path": "Resources/LobbyCard/Full/Baccarat1/BaccaratBig",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -112,7 +152,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView3/Evolution"
+        "path": "Resources/LobbyCard/Full/WebView3/Evolution",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -132,7 +173,17 @@
           "x": -5,
           "y": -240,
           "z": 0
-        }
+        },
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -152,7 +203,17 @@
           "x": 0,
           "y": -5,
           "z": 0
-        }
+        },
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -172,7 +233,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView6/SabaSport"
+        "path": "Resources/LobbyCard/Full/WebView6/SabaSport",
+        "jackpots": []
       },
       "category": 1,
       "isShow": true,
@@ -192,7 +254,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView7/SBO"
+        "path": "Resources/LobbyCard/Full/WebView7/SBO",
+        "jackpots": []
       },
       "category": 1,
       "isShow": true,
@@ -212,7 +275,17 @@
           "x": 0,
           "y": 0,
           "z": 0
-        }
+        },
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -232,7 +305,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/PrawnCrab3/BauCua"
+        "path": "Resources/LobbyCard/Full/PrawnCrab3/BauCua",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -252,7 +335,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/PrawnCrab4/BauCuaLocThu"
+        "path": "Resources/LobbyCard/Full/PrawnCrab4/BauCuaLocThu",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -272,7 +365,17 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/FanTan1/XocDia"
+        "path": "Resources/LobbyCard/Mini/FanTan1/XocDia",
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -292,7 +395,17 @@
           "x": 0,
           "y": -115,
           "z": 0
-        }
+        },
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -312,7 +425,17 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/Sicbo5/Tren7Duoi7"
+        "path": "Resources/LobbyCard/Mini/Sicbo5/Tren7Duoi7",
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -332,7 +455,17 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/Sicbo4/ChanLeSieuToc"
+        "path": "Resources/LobbyCard/Mini/Sicbo4/ChanLeSieuToc",
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -352,7 +485,17 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/Baccarat2/Baccarat"
+        "path": "Resources/LobbyCard/Mini/Baccarat2/Baccarat",
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -372,7 +515,17 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/Card2/BlackJack"
+        "path": "Resources/LobbyCard/Mini/Card2/BlackJack",
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -392,7 +545,17 @@
           "x": 0,
           "y": -115,
           "z": 0
-        }
+        },
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -412,7 +575,17 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/UpDown1/CaoThap"
+        "path": "Resources/LobbyCard/Mini/UpDown1/CaoThap",
+        "jackpots": [
+          {
+            "position": {
+              "x": -20,
+              "y": 50,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -432,7 +605,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Fish1/BanCa"
+        "path": "Resources/LobbyCard/Full/Fish1/BanCa",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -452,7 +635,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Aviator1/Aviator"
+        "path": "Resources/LobbyCard/Full/Aviator1/Aviator",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -472,7 +665,17 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Poker2/Poker2"
+        "path": "Resources/LobbyCard/Full/Poker2/Poker2",
+        "jackpots": [
+          {
+            "position": {
+              "x": -26,
+              "y": -195,
+              "z": 0
+            },
+            "scale": 1
+          }
+        ]
       },
       "category": 0,
       "isShow": true,
@@ -492,7 +695,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView5/DaGa"
+        "path": "Resources/LobbyCard/Full/WebView5/DaGa",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -512,7 +716,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView1/AESexy"
+        "path": "Resources/LobbyCard/Full/WebView1/AESexy",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -532,7 +737,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView16/CQ9"
+        "path": "Resources/LobbyCard/Full/WebView16/CQ9",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -552,7 +758,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView2/DreamGaming"
+        "path": "Resources/LobbyCard/Full/WebView2/DreamGaming",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -572,7 +779,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView4/Pragmatic Play"
+        "path": "Resources/LobbyCard/Full/WebView4/Pragmatic Play",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -592,7 +800,8 @@
           "y": -240,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/WebView23/Jili"
+        "path": "Resources/LobbyCard/Full/WebView23/Jili",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -612,7 +821,8 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/WebView20/MicroGamming"
+        "path": "Resources/LobbyCard/Mini/WebView20/MicroGamming",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -632,7 +842,8 @@
           "y": -115,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Mini/WebView22/Playtech"
+        "path": "Resources/LobbyCard/Mini/WebView22/Playtech",
+        "jackpots": []
       },
       "category": 2,
       "isShow": true,
@@ -652,7 +863,8 @@
           "y": 0,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Lottery1/LD"
+        "path": "Resources/LobbyCard/Full/Lottery1/LD",
+        "jackpots": []
       },
       "category": 3,
       "isShow": true,
@@ -672,7 +884,8 @@
           "y": 0,
           "z": 0
         },
-        "path": "Resources/LobbyCard/Full/Lottery2/LoDeNhanh_G"
+        "path": "Resources/LobbyCard/Full/Lottery2/LoDeNhanh_G",
+        "jackpots": []
       },
       "category": 3,
       "isShow": true,
